@@ -1,0 +1,8 @@
+c:\users\alex\documents\visual studio 2015\Projects\Browser auto reload\Browser auto reload\bin\Debug\Browser auto reload.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\Browser auto reload\Browser auto reload\bin\Debug\Browser auto reload.exe
+c:\users\alex\documents\visual studio 2015\Projects\Browser auto reload\Browser auto reload\bin\Debug\Browser auto reload.pdb
+c:\users\alex\documents\visual studio 2015\Projects\Browser auto reload\Browser auto reload\obj\Debug\Browser_auto_reload.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2015\Projects\Browser auto reload\Browser auto reload\obj\Debug\Browser auto reload.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2015\Projects\Browser auto reload\Browser auto reload\obj\Debug\Browser auto reload.exe
+c:\users\alex\documents\visual studio 2015\Projects\Browser auto reload\Browser auto reload\obj\Debug\Browser auto reload.pdb
+c:\users\alex\documents\visual studio 2015\Projects\Browser auto reload\Browser auto reload\obj\Debug\Browser_auto_reload.Main.resources
