@@ -56,7 +56,7 @@
             this.webBrowser1.MinimumSize = new System.Drawing.Size(20, 20);
             this.webBrowser1.Name = "webBrowser1";
             this.webBrowser1.ScriptErrorsSuppressed = true;
-            this.webBrowser1.Size = new System.Drawing.Size(1187, 418);
+            this.webBrowser1.Size = new System.Drawing.Size(1155, 418);
             this.webBrowser1.TabIndex = 0;
             this.webBrowser1.Url = new System.Uri("http://localhost", System.UriKind.Absolute);
             this.webBrowser1.DocumentCompleted += new System.Windows.Forms.WebBrowserDocumentCompletedEventHandler(this.webBrowser1_DocumentCompleted);
@@ -66,7 +66,7 @@
             // textBox1
             // 
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.textBox1.Location = new System.Drawing.Point(177, 7);
+            this.textBox1.Location = new System.Drawing.Point(155, 7);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(241, 22);
             this.textBox1.TabIndex = 1;
@@ -76,7 +76,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label1.Location = new System.Drawing.Point(151, 10);
+            this.label1.Location = new System.Drawing.Point(129, 10);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(25, 16);
             this.label1.TabIndex = 2;
@@ -84,7 +84,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(424, 7);
+            this.button1.Location = new System.Drawing.Point(402, 7);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(54, 23);
             this.button1.TabIndex = 3;
@@ -120,7 +120,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(920, 7);
+            this.button2.Location = new System.Drawing.Point(887, 7);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(54, 23);
             this.button2.TabIndex = 7;
@@ -131,7 +131,7 @@
             // textBox2
             // 
             this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.textBox2.Location = new System.Drawing.Point(673, 7);
+            this.textBox2.Location = new System.Drawing.Point(640, 7);
             this.textBox2.Name = "textBox2";
             this.textBox2.ReadOnly = true;
             this.textBox2.Size = new System.Drawing.Size(241, 22);
@@ -141,7 +141,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label2.Location = new System.Drawing.Point(496, 10);
+            this.label2.Location = new System.Drawing.Point(463, 10);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(171, 16);
             this.label2.TabIndex = 8;
@@ -154,7 +154,7 @@
             this.button3.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button3.Enabled = false;
             this.button3.ForeColor = System.Drawing.Color.Black;
-            this.button3.Location = new System.Drawing.Point(1031, 7);
+            this.button3.Location = new System.Drawing.Point(999, 7);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(146, 23);
             this.button3.TabIndex = 9;
@@ -171,7 +171,7 @@
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(980, 7);
+            this.button4.Location = new System.Drawing.Point(947, 7);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(45, 23);
             this.button4.TabIndex = 10;
@@ -183,9 +183,9 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1189, 455);
-            this.Controls.Add(this.button4);
+            this.ClientSize = new System.Drawing.Size(1157, 455);
             this.Controls.Add(this.button3);
+            this.Controls.Add(this.button4);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.textBox2);
@@ -196,7 +196,6 @@
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.webBrowser1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.MinimumSize = new System.Drawing.Size(1205, 285);
             this.Name = "Main";
             this.Text = "Live reload";
             ((System.ComponentModel.ISupportInitialize)(this.fileSystemWatcher1)).EndInit();
